@@ -8,3 +8,7 @@
 2. Ethical Hacker
    - https://www.credly.com/badges/94f1608c-bbca-4868-a5e6-ffaf9a02144a
    ![Badge](images/ethical-Hack-Badge.png)
+
+### ISC2 Certified in Cybersecurity
+1. Domain 1: Security Principles
+   ![Certificate](resources/cc-1.pdf)
