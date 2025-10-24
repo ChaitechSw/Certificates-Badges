@@ -12,3 +12,6 @@
 ### ISC2 Certified in Cybersecurity
 1. Domain 1: Security Principles
    📄 [Certificate of completion](resources/cc-1.pdf)
+2. Domain 2: Incident Response, Business Continuity and
+Disaster Recovery Concepts
+   📄 [Certificate of completion](resources/cc-2.pdf)
