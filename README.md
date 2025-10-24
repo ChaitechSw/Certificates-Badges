@@ -11,4 +11,4 @@
 
 ### ISC2 Certified in Cybersecurity
 1. Domain 1: Security Principles
-   ![Certificate](resources/cc-1.pdf)
+   📄 [Certificate of completion](resources/cc-1.pdf)
