@@ -15,3 +15,5 @@
 2. Domain 2: Incident Response, Business Continuity and
 Disaster Recovery Concepts
    📄 [Certificate of completion](resources/cc-2.pdf)
+3. Domain 3: Access Control Concepts
+   📄 [Certificate of completion](resources/cc-3.pdf)
