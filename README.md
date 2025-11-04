@@ -17,3 +17,5 @@ Disaster Recovery Concepts
    📄 [Certificate of completion](resources/cc-2.pdf)
 3. Domain 3: Access Control Concepts
    📄 [Certificate of completion](resources/cc-3.pdf)
+4. Domain 4: Network Security
+   📄 [Certificate of completion](resources/cc-4.pdf)
